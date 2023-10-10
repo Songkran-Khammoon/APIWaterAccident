@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/APIWaterAccident/static/css/main.e940c5f7.css",
-    "main.js": "/APIWaterAccident/static/js/main.2d023212.js",
+    "main.js": "/APIWaterAccident/static/js/main.36c66794.js",
     "static/js/787.e8fbd3bd.chunk.js": "/APIWaterAccident/static/js/787.e8fbd3bd.chunk.js",
     "index.html": "/APIWaterAccident/index.html",
     "main.e940c5f7.css.map": "/APIWaterAccident/static/css/main.e940c5f7.css.map",
-    "main.2d023212.js.map": "/APIWaterAccident/static/js/main.2d023212.js.map",
+    "main.36c66794.js.map": "/APIWaterAccident/static/js/main.36c66794.js.map",
     "787.e8fbd3bd.chunk.js.map": "/APIWaterAccident/static/js/787.e8fbd3bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e940c5f7.css",
-    "static/js/main.2d023212.js"
+    "static/js/main.36c66794.js"
   ]
 }
